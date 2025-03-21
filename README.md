@@ -66,7 +66,7 @@ I'm a CSIT student and software engineer passionate about full-stack web develop
  
 
 </div>
----
+
 ## 🏻 Featured Projects
 
 ### [Full-Stack Web App](https://github.com/yourusername/project1)
