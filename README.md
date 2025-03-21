@@ -1,23 +1,21 @@
-# 👋 Hi, I'm x 
+# 👋 Hi, I'm X 
 
-**`[Your Title/Role] (Developer | Open Source Contributor | Tech Enthusiast)`**
+**`Designer | Developer | Tech Enthusiast`**
 
-[![Website Badge](https://img.shields.io/badge/Portfolio-YourPortfolioURL-blue?style=flat&logo=google-chrome)](https://your-portfolio-url.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter)](https://twitter.com/yourhandle)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=google-chrome)](https://your-portfolio-url.com)
 [![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:youremail@domain.com)
 
 ---
 
 ## 🚀 About Me
 
-I'm a software engineer passionate about [Your Key Interests, e.g., "building scalable web applications, open source, and machine learning"]. Currently:
-- 🔭 Working on [Current Project/Company]
-- 🌱 Learning [Technologies/Skills You're Learning]
-- 👯 Looking to collaborate on [Type of Projects]
-- 💬 Ask me about [Your Expertise Areas]
-- 📫 How to reach me: [Preferred Contact Method]
-- 😄 Pronouns: [Your Pronouns]
+I'm a CSIT student and software engineer passionate about full-stack web development, design, and exploring new technologies. Currently:
+- 🎓 Pursuing Computer Science and Information Technology
+- 🔭 Working on full-stack web development projects
+- 🌱 Learning Data Analysis with Python, Power BI, and SQL
+- 💡 Hobbies: Reading, Traveling, Gaming, and Tech Exploration
+- 💬 Ask me about Web Frontend, UI/UX Design, and Graphic Design
+- 📫 How to reach me: Via email or my portfolio website
 
 ---
 
@@ -25,26 +23,34 @@ I'm a software engineer passionate about [Your Key Interests, e.g., "building sc
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frameworks/Libraries**
+**Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 **Tools & Platforms**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
 ## 🔥 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
 
@@ -52,22 +58,17 @@ I'm a software engineer passionate about [Your Key Interests, e.g., "building sc
 
 ---
 
-## 🏆 Featured Projects
+## 🏻 Featured Projects
 
-### [Project 1 Name](https://github.com/yourusername/project1)
-![Project1 Badge](https://img.shields.io/github/stars/yourusername/project1?style=social)
-Short description (1-2 lines). Built with [Tech Stack].
+### [Full-Stack Web App](https://github.com/yourusername/project1)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+Modern web application with responsive design and REST API integration
 
-### [Project 2 Name](https://github.com/yourusername/project2)
-![Project2 Badge](https://img.shields.io/github/last-commit/yourusername/project2)
-Short description (1-2 lines). Featured on [Platform Name].
-
----
-
-## 📝 Latest Blog Posts
-<!-- Replace with your blog RSS feed -->
-- [Post Title 1](https://your-blog.com/post1)
-- [Post Title 2](https://your-blog.com/post2)
+### [Data Analysis Dashboard](https://github.com/yourusername/project2)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black)
+Interactive data visualization project using Python and Power BI
 
 ---
 
@@ -77,4 +78,4 @@ Short description (1-2 lines). Featured on [Platform Name].
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [X](https://github.com/yourusername)
