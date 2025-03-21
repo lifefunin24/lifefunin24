@@ -58,13 +58,15 @@ I'm a CSIT student and software engineer passionate about full-stack web develop
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)](https://git.io/streak-stats)
 
----
+
 <div align="center">
-## 💬 Random Developer Quote
-> "First, solve the problem. Then, write the code." — *John Johnson*
+  
+## 💬 Random Developer Quote  
+> "First, solve the problem. Then, write the code."  
+ 
+
 </div>
 ---
-
 ## 🏻 Featured Projects
 
 ### [Full-Stack Web App](https://github.com/yourusername/project1)
