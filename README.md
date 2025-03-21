@@ -1,6 +1,7 @@
-![Header Image](https://github.com/yourusername/yourusername/blob/main/header-image.png)
 
-# 👋 Welcome to My GitHub, I'm **x** (xettree) 🔥
+![Header Image](https://github.com/user-attachments/assets/f80e8718-7ba9-488f-aff7-f365876506df)
+
+# 👋 Welcome to My GitHub, I'm **x** (Xettree) 🔥
 
 **`Designer | Developer | Tech Enthusiast`**
 
@@ -54,8 +55,6 @@ I'm a CSIT student and software engineer passionate about full-stack web develop
 ## 🔥 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)](https://git.io/streak-stats)
 
