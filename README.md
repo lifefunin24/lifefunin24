@@ -1,4 +1,6 @@
-# 👋 Hi, I'm X 
+![Header Image](https://github.com/yourusername/yourusername/blob/main/header-image.png)
+
+# 👋 Welcome to My GitHub, I'm **x** (xettree) 🔥
 
 **`Designer | Developer | Tech Enthusiast`**
 
@@ -42,6 +44,7 @@ I'm a CSIT student and software engineer passionate about full-stack web develop
 **Tools & Platforms**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -56,6 +59,11 @@ I'm a CSIT student and software engineer passionate about full-stack web develop
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)](https://git.io/streak-stats)
 
+---
+<div align="center">
+## 💬 Random Developer Quote
+> "First, solve the problem. Then, write the code." — *John Johnson*
+</div>
 ---
 
 ## 🏻 Featured Projects
@@ -77,5 +85,8 @@ Interactive data visualization project using Python and Power BI
 ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
 
 ---
+<p align="center">
+  Made with ❤️ by [X](https://github.com/yourusername) • 🔥 Keep coding!
+</p>
 
-⭐️ From [X](https://github.com/yourusername)
+⭐️ From xetree
